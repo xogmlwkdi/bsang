@@ -1,7 +1,0 @@
-for a in range(2,11):
-    for q in range(2,a):
-        if a%q ==0:
-            print(a,"는 소수아님")
-            break 
-    else: 
-        print(a,"는 소수임") 
